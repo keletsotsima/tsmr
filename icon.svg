@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#18181f"/>
+  <!-- outer square mark -->
+  <rect x="80" y="80" width="352" height="352" rx="64" fill="none" stroke="#4a6fa5" stroke-width="24"/>
+  <!-- three lines — log/document -->
+  <path d="M152 196h208M152 256h128M152 316h168" stroke="#4a6fa5" stroke-width="24" stroke-linecap="round"/>
+  <!-- signal dot -->
+  <circle cx="360" cy="196" r="24" fill="#4a6fa5"/>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "name": "TSMR — IT Growth Journal",
+  "short_name": "TSMR",
+  "description": "Personal IT ticket tracker and growth journal",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#18181f",
+  "theme_color": "#18181f",
+  "orientation": "any",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
