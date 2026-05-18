@@ -1,0 +1,18 @@
+{
+  "tickets": [],
+  "cats": [
+    "Network",
+    "Hardware",
+    "Software",
+    "Security",
+    "Email & Comm",
+    "Cloud & Azure",
+    "User Access & AD",
+    "Printer & Periph"
+  ],
+  "certs": [
+    "AZ-104",
+    "AZ-305",
+    "AZ-500"
+  ]
+}
